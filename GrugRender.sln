@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GrugRender", "GrugRender\GrugRender.vcxproj", "{07A8D561-2EC2-4B82-9B8B-9F65234AF6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A8D561-2EC2-4B82-9B8B-9F65234AF6A8}.Debug|x64.ActiveCfg = Debug|x64
+		{07A8D561-2EC2-4B82-9B8B-9F65234AF6A8}.Debug|x64.Build.0 = Debug|x64
+		{07A8D561-2EC2-4B82-9B8B-9F65234AF6A8}.Release|x64.ActiveCfg = Release|x64
+		{07A8D561-2EC2-4B82-9B8B-9F65234AF6A8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157EE506-38D1-4788-8D83-234D99A83E3F}
+	EndGlobalSection
+EndGlobal
